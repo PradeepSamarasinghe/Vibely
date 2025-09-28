@@ -3,7 +3,7 @@ import Link from "next/link";
 
 function Navbar() {
   return (
-    <nav className="flex items-center justify-between px-6 py-4 bg-gray-900 text-white">
+    <nav className="flex items-center justify-between px-20 py-4 bg-gray-900 text-white">
       {/* Brand / Logo */}
       <div className="text-xl font-bold">
         <Link href="/">VIBELY</Link>
